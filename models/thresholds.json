@@ -1,0 +1,5 @@
+{
+  "autonomous_max": 0.15,
+  "restricted_max": 0.4,
+  "approval_max": 0.65
+}
